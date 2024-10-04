@@ -8,8 +8,8 @@ format based on input text similarity to job descriptions.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Codename-shaShank/Job_recommender.git
-   cd Job_recommender
+   https://github.com/NaraSIMHA-008/JobDataRetriever.git
+   cd JobDataRetriever
 
 2. **Install the required dependencies:**
    ```bash
