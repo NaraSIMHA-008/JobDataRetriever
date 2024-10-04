@@ -1,4 +1,4 @@
-# Job Details Retrieval
+# Job Data Retriever
 
 This Flask-based web service utilizes Flask API and Google GenAI (Gemini) API key for content generation. It employs
 FAISS for similarity matching and Sentence Transformers for semantic representation. Returns job details in JSON
